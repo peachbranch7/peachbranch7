@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm peachbranch</h1>
-<h3 align="left">A frontend developer from Japan</h3>
+## Hi 👋, I'm peachbranch
+A frontend developer from Japan
 
 <!--
 <p align="left"> 
