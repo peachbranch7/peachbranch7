@@ -3,7 +3,6 @@
 ## About Me
 - 😈 I’m peachbranch.
 - 💻 I'm front-end developer.
-- 🌱 I'm currently learning on UI/UX Design.
 
 ## Skill
 ### Languages
