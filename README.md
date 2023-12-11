@@ -9,13 +9,15 @@
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/ja/)
-[![My Skills](https://skillicons.dev/icons?i=go)](https://www.ruby-lang.org/ja/)
+[![My Skills](https://skillicons.dev/icons?i=go)](https://go.dev/)
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nuxtjs)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/ja/)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
