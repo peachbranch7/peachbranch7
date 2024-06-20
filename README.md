@@ -2,8 +2,8 @@
 
 ## About Me
 - 😈 I’m peachbranch.
-- 💻 I'm front-end developer.
-- 🤖 interested in Typescript, Serverless...
+- 💻 I'm web developer.
+- 🤖 interested in Typescript, Go, Serverless...
 
 ## Skill
 ### Languages
