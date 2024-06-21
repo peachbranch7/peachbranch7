@@ -3,7 +3,7 @@
 ## About Me
 - 😈 I’m peachbranch.
 - 💻 I'm web developer.
-- 🤖 interested in Typescript, Go, Serverless...
+- 🤖 interested in TypeScript, Go, Serverless...
 
 ## Skill
 ### Languages
